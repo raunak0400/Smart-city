@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: smart_city_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    environment:
+      - VITE_API_BASE_URL=http://localhost:5000/api
+      - VITE_WS_URL=http://localhost:5000
+    networks:
+      - smart_city_network
+    depends_on:
+      - backend
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Backend service reference (should be in parent docker-compose)
+  backend:
+    image: smart_city_backend:latest
+    container_name: smart_city_backend
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    networks:
+      - smart_city_network
+    external: true
+
+networks:
+  smart_city_network:
+    external: true
