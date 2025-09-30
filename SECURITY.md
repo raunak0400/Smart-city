@@ -45,7 +45,7 @@ We take security vulnerabilities seriously. If you discover a security vulnerabi
 
 ### How to Report
 
-1. **Email**: Send details to [prathamu341@gmail.com](mailto:prathamu341@gmail.com)
+1. **Email**: Send details to [Contact@imraunak.dev](mailto:contact@imraunak.dev)
 2. **Subject Line**: Use "SECURITY VULNERABILITY - Smart City Platform"
 3. **Include**:
    - Detailed description of the vulnerability
@@ -201,7 +201,7 @@ Set up alerts for:
 
 ### Primary Contact
 - **Name**: Pratham Upadhyay
-- **Email**: [prathamu341@gmail.com](mailto:prathamu341@gmail.com)
+- **Email**: [contact@imraunak.dev](mailto:contact@imraunak.dev)
 - **Role**: Lead Developer & Security Officer
 
 ### Emergency Contact
@@ -237,4 +237,4 @@ For critical security issues requiring immediate attention:
 **Last Updated**: September 2024  
 **Next Review**: December 2024
 
-For questions about this security policy, contact [prathamu341@gmail.com](mailto:prathamu341@gmail.com).
+For questions about this security policy, contact [contact@imraunak.dev](mailto:contact@imraunak.dev).
