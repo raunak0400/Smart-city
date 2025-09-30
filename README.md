@@ -267,8 +267,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 👨‍💻 Author
 
 **Pratham Upadhyay**
-- Email: [prathamu341@gmail.com](mailto:prathamu341@gmail.com)
-- GitHub: [@prathamupadhyay341](https://github.com/prathamupadhyay341)
+- Email: [contact@imraunak.dev](mailto:contact@imraunak.dev)
+- GitHub: [@raunak0400](https://github.com/raunak0400)
 
 ## 🤝 Contributing
 
@@ -290,7 +290,7 @@ We welcome contributions! Please follow these steps:
 ## 📞 Support
 
 For support and questions:
-- **Email**: [prathamu341@gmail.com](mailto:prathamu341@gmail.com)
+- **Email**: [contact@imraunak.dev](mailto:contact@imraunak.dev)
 - **Issues**: Create an issue in the repository
 - **Security**: See [SECURITY.md](./SECURITY.md) for security-related concerns
 
@@ -314,4 +314,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ by Pratham Upadhyay for smart city management and urban optimization.**
+**Built with ❤️ by Raunak Kumar Jha for smart city management and urban optimization.**
