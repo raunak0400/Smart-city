@@ -216,7 +216,7 @@ This project follows security best practices and includes:
 - HTTPS enforcement in production
 - Docker security configurations
 
-For security vulnerabilities, please see our [Security Policy](./SECURITY.md) and report issues to [prathamu341@gmail.com](mailto:prathamu341@gmail.com).
+For security vulnerabilities, please see our [Security Policy](./SECURITY.md) and report issues to [contact@imraunak.dev](mailto:contact@imraunak.dev).
 
 ## 🐛 Troubleshooting
 
